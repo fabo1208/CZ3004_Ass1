@@ -2,6 +2,8 @@ from queue import PriorityQueue
 import json
 import math
 
+# test
+
 # makes json files into dictionaries
 def read_json():
     names = ["Coord", "Cost", "Dist", "G"]
